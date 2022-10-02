@@ -5,7 +5,7 @@
 ### Schrodinger Equation
 ### Monte Carlo Simulation
 ### Random Engine Rather than Rand()
-### Todo: UI Design & Arguments Adjust
+### Todo: UI Design & Tuning
 ### Todo: Data Visualization by Qwt or MathGL
 ### Todo: Speed Up & Animation
 ---
